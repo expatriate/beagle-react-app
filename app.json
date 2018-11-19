@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "sdkVersion": "31.0.0",
+    "name": "Beagle-react-app",
+    "slug": "beagle-react-app",
+    "version": "0.1.0",
+    "description": "",
+    "orientation": "portrait",
+    "isDetached": true,
+    "detach": {
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.9.2-sdk31.0.0-d1776f37-d524-4fee-872d-6807b0fd83ff.tar.gz"
+    },
+    "scheme": "exp470c9a55518e4515891f5ac271877cda",
+    "android": {
+      "package": "beagle.app",
+      "publishBundlePath": "android\\app\\src\\main\\assets\\shell-app.bundle",
+      "publishManifestPath": "android\\app\\src\\main\\assets\\shell-app-manifest.json"
+    }
+  }
+}
