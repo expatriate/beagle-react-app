@@ -1,4 +1,4 @@
-Мобильное приложение Артек
+Мобильное приложение Beagle
 ================
 
 
@@ -29,13 +29,13 @@
 
 ## Запуск проекта для тестирования 
 
-** Страница проекта на [Expo](https://expo.io/@webrise/Artek-react-app) **
+** Страница проекта на [Expo](https://expo.io/) **
 
 ** Expo приложение **
 
  1. Необходимо скачать клиент Expo для девайса [IOs](https://itunes.apple.com/app/apple-store/id982107779) , [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www)
- 2. Авторизоваться под учетной записью Webrise `d.ivanov@webrise.ru:webrise` 
- 3. Найти в списке Expo приложений `Artek-react-app`, запустить.
+ 2. Авторизоваться под учетной записью
+ 3. Найти в списке Expo приложений `Beagle-react-app`, запустить.
 
 ** Browserstack **
 
